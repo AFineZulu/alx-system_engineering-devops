@@ -1,1 +1,1 @@
-A script that SwitchUser-su to sis Betty
+A script to print current user
